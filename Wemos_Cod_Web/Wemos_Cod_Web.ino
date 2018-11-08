@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 #include <SoftwareSerial.h>
-#include <Servo.h>
+//#include <Servo.h>
 
 
 #define SerialCom_TX D3
